@@ -1,0 +1,12 @@
+button{
+    display: inline-block;
+    background-color: #72DD2B;
+    padding: 5px;
+    width: 200px;
+    color:white;
+    border-radius: 10px;
+}
+input{
+    background-color: #ededed;
+    border-radius: 7px;
+}
